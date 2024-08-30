@@ -1,7 +1,8 @@
 # Luminescence Predictor
 
 ## Project report
-    https://docs.google.com/document/d/1QW4Sq1GmfwkoeHdjRb2hm1bmpEAMy2SSsTfuJJGe35c/edit#heading=h.6x7a7xj9dqky
+
+[AIRI Project report](https://docs.google.com/document/d/1QW4Sq1GmfwkoeHdjRb2hm1bmpEAMy2SSsTfuJJGe35c/edit#heading=h.6x7a7xj9dqky)
 
 ## Description
 
