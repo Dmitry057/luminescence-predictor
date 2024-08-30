@@ -19,13 +19,7 @@ The Luminescence Predictor is a project that aims to predict luminescence parame
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/luminescence-predictor.git
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/Dmitry057/luminescence-predictor.git
     ```
 
 ## Usage
